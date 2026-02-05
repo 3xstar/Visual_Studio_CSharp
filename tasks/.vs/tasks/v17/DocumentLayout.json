@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#_NET\\tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C3130B-A73F-45B2-B765-D471BE0B2A1A}|tasks\\tasks.csproj|c:\\c#_net\\tasks\\tasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C3130B-A73F-45B2-B765-D471BE0B2A1A}|tasks\\tasks.csproj|solutionrelative:tasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C3130B-A73F-45B2-B765-D471BE0B2A1A}|tasks\\task1.csproj|c:\\c#_net\\tasks\\tasks\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C3130B-A73F-45B2-B765-D471BE0B2A1A}|tasks\\task1.csproj|solutionrelative:tasks\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C3130B-A73F-45B2-B765-D471BE0B2A1A}|tasks\\tasks.csproj|c:\\c#_net\\tasks\\tasks\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C3130B-A73F-45B2-B765-D471BE0B2A1A}|tasks\\tasks.csproj|solutionrelative:tasks\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task3.cs",
+              "DocumentMoniker": "C:\\C#_NET\\tasks\\tasks\\task3.cs",
+              "RelativeDocumentMoniker": "tasks\\task3.cs",
+              "ToolTip": "C:\\C#_NET\\tasks\\tasks\\task3.cs",
+              "RelativeToolTip": "tasks\\task3.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:40:48.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task2.cs",
+              "DocumentMoniker": "C:\\C#_NET\\tasks\\tasks\\task2.cs",
+              "RelativeDocumentMoniker": "tasks\\task2.cs",
+              "ToolTip": "C:\\C#_NET\\tasks\\tasks\\task2.cs",
+              "RelativeToolTip": "tasks\\task2.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:40:20.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task1.cs",
+              "DocumentMoniker": "C:\\C#_NET\\tasks\\tasks\\task1.cs",
+              "RelativeDocumentMoniker": "tasks\\task1.cs",
+              "ToolTip": "C:\\C#_NET\\tasks\\tasks\\task1.cs",
+              "RelativeToolTip": "tasks\\task1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:35:59.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

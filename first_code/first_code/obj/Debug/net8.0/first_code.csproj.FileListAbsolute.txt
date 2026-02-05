@@ -1,0 +1,14 @@
+C:\C#_NET\first_code\first_code\bin\Debug\net8.0\first_code.exe
+C:\C#_NET\first_code\first_code\bin\Debug\net8.0\first_code.deps.json
+C:\C#_NET\first_code\first_code\bin\Debug\net8.0\first_code.runtimeconfig.json
+C:\C#_NET\first_code\first_code\bin\Debug\net8.0\first_code.dll
+C:\C#_NET\first_code\first_code\bin\Debug\net8.0\first_code.pdb
+C:\C#_NET\first_code\first_code\obj\Debug\net8.0\first_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\first_code\first_code\obj\Debug\net8.0\first_code.AssemblyInfoInputs.cache
+C:\C#_NET\first_code\first_code\obj\Debug\net8.0\first_code.AssemblyInfo.cs
+C:\C#_NET\first_code\first_code\obj\Debug\net8.0\first_code.csproj.CoreCompileInputs.cache
+C:\C#_NET\first_code\first_code\obj\Debug\net8.0\first_code.dll
+C:\C#_NET\first_code\first_code\obj\Debug\net8.0\refint\first_code.dll
+C:\C#_NET\first_code\first_code\obj\Debug\net8.0\first_code.pdb
+C:\C#_NET\first_code\first_code\obj\Debug\net8.0\first_code.genruntimeconfig.cache
+C:\C#_NET\first_code\first_code\obj\Debug\net8.0\ref\first_code.dll

@@ -1,0 +1,14 @@
+C:\C#_NET\massives\base\base\obj\Debug\net8.0\massives_base.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\massives\base\base\obj\Debug\net8.0\massives_base.AssemblyInfoInputs.cache
+C:\C#_NET\massives\base\base\obj\Debug\net8.0\massives_base.AssemblyInfo.cs
+C:\C#_NET\massives\base\base\obj\Debug\net8.0\massives_base.csproj.CoreCompileInputs.cache
+C:\C#_NET\massives\base\base\bin\Debug\net8.0\massives_base.exe
+C:\C#_NET\massives\base\base\bin\Debug\net8.0\massives_base.deps.json
+C:\C#_NET\massives\base\base\bin\Debug\net8.0\massives_base.runtimeconfig.json
+C:\C#_NET\massives\base\base\bin\Debug\net8.0\massives_base.dll
+C:\C#_NET\massives\base\base\bin\Debug\net8.0\massives_base.pdb
+C:\C#_NET\massives\base\base\obj\Debug\net8.0\massives_base.dll
+C:\C#_NET\massives\base\base\obj\Debug\net8.0\refint\massives_base.dll
+C:\C#_NET\massives\base\base\obj\Debug\net8.0\massives_base.pdb
+C:\C#_NET\massives\base\base\obj\Debug\net8.0\massives_base.genruntimeconfig.cache
+C:\C#_NET\massives\base\base\obj\Debug\net8.0\ref\massives_base.dll
