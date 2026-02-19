@@ -1,0 +1,15 @@
+C:\C#_NET\task_folder\tasks5\tasks5\obj\Debug\net10.0\tasks5.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\task_folder\tasks5\tasks5\obj\Debug\net10.0\tasks5.AssemblyInfoInputs.cache
+C:\C#_NET\task_folder\tasks5\tasks5\obj\Debug\net10.0\tasks5.AssemblyInfo.cs
+C:\C#_NET\task_folder\tasks5\tasks5\obj\Debug\net10.0\tasks5.csproj.CoreCompileInputs.cache
+C:\C#_NET\task_folder\tasks5\tasks5\obj\Debug\net10.0\tasks5.sourcelink.json
+C:\C#_NET\task_folder\tasks5\tasks5\bin\Debug\net10.0\tasks5.exe
+C:\C#_NET\task_folder\tasks5\tasks5\bin\Debug\net10.0\tasks5.deps.json
+C:\C#_NET\task_folder\tasks5\tasks5\bin\Debug\net10.0\tasks5.runtimeconfig.json
+C:\C#_NET\task_folder\tasks5\tasks5\bin\Debug\net10.0\tasks5.dll
+C:\C#_NET\task_folder\tasks5\tasks5\bin\Debug\net10.0\tasks5.pdb
+C:\C#_NET\task_folder\tasks5\tasks5\obj\Debug\net10.0\tasks5.dll
+C:\C#_NET\task_folder\tasks5\tasks5\obj\Debug\net10.0\refint\tasks5.dll
+C:\C#_NET\task_folder\tasks5\tasks5\obj\Debug\net10.0\tasks5.pdb
+C:\C#_NET\task_folder\tasks5\tasks5\obj\Debug\net10.0\tasks5.genruntimeconfig.cache
+C:\C#_NET\task_folder\tasks5\tasks5\obj\Debug\net10.0\ref\tasks5.dll

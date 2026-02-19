@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("massives_base")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa9687fff12404b0257d4e9838c36736e8e1bd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("massives_base")]
 [assembly: System.Reflection.AssemblyTitleAttribute("massives_base")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

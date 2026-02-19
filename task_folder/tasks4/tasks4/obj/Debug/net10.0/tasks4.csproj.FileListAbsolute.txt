@@ -1,0 +1,15 @@
+C:\C#_NET\task_folder\tasks4\tasks4\bin\Debug\net10.0\tasks4.exe
+C:\C#_NET\task_folder\tasks4\tasks4\bin\Debug\net10.0\tasks4.deps.json
+C:\C#_NET\task_folder\tasks4\tasks4\bin\Debug\net10.0\tasks4.runtimeconfig.json
+C:\C#_NET\task_folder\tasks4\tasks4\bin\Debug\net10.0\tasks4.dll
+C:\C#_NET\task_folder\tasks4\tasks4\bin\Debug\net10.0\tasks4.pdb
+C:\C#_NET\task_folder\tasks4\tasks4\obj\Debug\net10.0\tasks4.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\task_folder\tasks4\tasks4\obj\Debug\net10.0\tasks4.AssemblyInfoInputs.cache
+C:\C#_NET\task_folder\tasks4\tasks4\obj\Debug\net10.0\tasks4.AssemblyInfo.cs
+C:\C#_NET\task_folder\tasks4\tasks4\obj\Debug\net10.0\tasks4.csproj.CoreCompileInputs.cache
+C:\C#_NET\task_folder\tasks4\tasks4\obj\Debug\net10.0\tasks4.sourcelink.json
+C:\C#_NET\task_folder\tasks4\tasks4\obj\Debug\net10.0\tasks4.dll
+C:\C#_NET\task_folder\tasks4\tasks4\obj\Debug\net10.0\refint\tasks4.dll
+C:\C#_NET\task_folder\tasks4\tasks4\obj\Debug\net10.0\tasks4.pdb
+C:\C#_NET\task_folder\tasks4\tasks4\obj\Debug\net10.0\tasks4.genruntimeconfig.cache
+C:\C#_NET\task_folder\tasks4\tasks4\obj\Debug\net10.0\ref\tasks4.dll

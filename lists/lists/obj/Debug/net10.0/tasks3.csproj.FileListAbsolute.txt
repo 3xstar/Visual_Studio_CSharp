@@ -1,0 +1,15 @@
+C:\C#_NET\task_folder\tasks3\tasks3\bin\Debug\net10.0\tasks3.exe
+C:\C#_NET\task_folder\tasks3\tasks3\bin\Debug\net10.0\tasks3.deps.json
+C:\C#_NET\task_folder\tasks3\tasks3\bin\Debug\net10.0\tasks3.runtimeconfig.json
+C:\C#_NET\task_folder\tasks3\tasks3\bin\Debug\net10.0\tasks3.dll
+C:\C#_NET\task_folder\tasks3\tasks3\bin\Debug\net10.0\tasks3.pdb
+C:\C#_NET\task_folder\tasks3\tasks3\obj\Debug\net10.0\tasks3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\task_folder\tasks3\tasks3\obj\Debug\net10.0\tasks3.AssemblyInfoInputs.cache
+C:\C#_NET\task_folder\tasks3\tasks3\obj\Debug\net10.0\tasks3.AssemblyInfo.cs
+C:\C#_NET\task_folder\tasks3\tasks3\obj\Debug\net10.0\tasks3.csproj.CoreCompileInputs.cache
+C:\C#_NET\task_folder\tasks3\tasks3\obj\Debug\net10.0\tasks3.sourcelink.json
+C:\C#_NET\task_folder\tasks3\tasks3\obj\Debug\net10.0\tasks3.dll
+C:\C#_NET\task_folder\tasks3\tasks3\obj\Debug\net10.0\refint\tasks3.dll
+C:\C#_NET\task_folder\tasks3\tasks3\obj\Debug\net10.0\tasks3.pdb
+C:\C#_NET\task_folder\tasks3\tasks3\obj\Debug\net10.0\tasks3.genruntimeconfig.cache
+C:\C#_NET\task_folder\tasks3\tasks3\obj\Debug\net10.0\ref\tasks3.dll

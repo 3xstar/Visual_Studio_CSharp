@@ -1,0 +1,15 @@
+C:\C#_NET\homework\hw3\hw3\bin\Debug\net10.0\hw3.exe
+C:\C#_NET\homework\hw3\hw3\bin\Debug\net10.0\hw3.deps.json
+C:\C#_NET\homework\hw3\hw3\bin\Debug\net10.0\hw3.runtimeconfig.json
+C:\C#_NET\homework\hw3\hw3\bin\Debug\net10.0\hw3.dll
+C:\C#_NET\homework\hw3\hw3\bin\Debug\net10.0\hw3.pdb
+C:\C#_NET\homework\hw3\hw3\obj\Debug\net10.0\hw3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\homework\hw3\hw3\obj\Debug\net10.0\hw3.AssemblyInfoInputs.cache
+C:\C#_NET\homework\hw3\hw3\obj\Debug\net10.0\hw3.AssemblyInfo.cs
+C:\C#_NET\homework\hw3\hw3\obj\Debug\net10.0\hw3.csproj.CoreCompileInputs.cache
+C:\C#_NET\homework\hw3\hw3\obj\Debug\net10.0\hw3.sourcelink.json
+C:\C#_NET\homework\hw3\hw3\obj\Debug\net10.0\hw3.dll
+C:\C#_NET\homework\hw3\hw3\obj\Debug\net10.0\refint\hw3.dll
+C:\C#_NET\homework\hw3\hw3\obj\Debug\net10.0\hw3.pdb
+C:\C#_NET\homework\hw3\hw3\obj\Debug\net10.0\hw3.genruntimeconfig.cache
+C:\C#_NET\homework\hw3\hw3\obj\Debug\net10.0\ref\hw3.dll
