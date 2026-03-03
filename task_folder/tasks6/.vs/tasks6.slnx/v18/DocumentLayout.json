@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#_NET\\task_folder\\tasks6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145FCC97-301D-70C3-C5D1-25172E5EF025}|tasks6\\tasks6.csproj|c:\\c#_net\\task_folder\\tasks6\\tasks6\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FCC97-301D-70C3-C5D1-25172E5EF025}|tasks6\\tasks6.csproj|solutionrelative:tasks6\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FCC97-301D-70C3-C5D1-25172E5EF025}|tasks6\\tasks6.csproj|c:\\c#_net\\task_folder\\tasks6\\tasks6\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FCC97-301D-70C3-C5D1-25172E5EF025}|tasks6\\tasks6.csproj|solutionrelative:tasks6\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FCC97-301D-70C3-C5D1-25172E5EF025}|tasks6\\tasks6.csproj|c:\\c#_net\\task_folder\\tasks6\\tasks6\\tasks4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FCC97-301D-70C3-C5D1-25172E5EF025}|tasks6\\tasks6.csproj|solutionrelative:tasks6\\tasks4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FCC97-301D-70C3-C5D1-25172E5EF025}|tasks6\\tasks6.csproj|c:\\c#_net\\task_folder\\tasks6\\tasks6\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FCC97-301D-70C3-C5D1-25172E5EF025}|tasks6\\tasks6.csproj|solutionrelative:tasks6\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task2.cs",
+              "DocumentMoniker": "C:\\C#_NET\\task_folder\\tasks6\\tasks6\\task2.cs",
+              "RelativeDocumentMoniker": "tasks6\\task2.cs",
+              "ToolTip": "C:\\C#_NET\\task_folder\\tasks6\\tasks6\\task2.cs",
+              "RelativeToolTip": "tasks6\\task2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:57:31.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task3.cs",
+              "DocumentMoniker": "C:\\C#_NET\\task_folder\\tasks6\\tasks6\\task3.cs",
+              "RelativeDocumentMoniker": "tasks6\\task3.cs",
+              "ToolTip": "C:\\C#_NET\\task_folder\\tasks6\\tasks6\\task3.cs",
+              "RelativeToolTip": "tasks6\\task3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:57:26.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tasks4.cs",
+              "DocumentMoniker": "C:\\C#_NET\\task_folder\\tasks6\\tasks6\\tasks4.cs",
+              "RelativeDocumentMoniker": "tasks6\\tasks4.cs",
+              "ToolTip": "C:\\C#_NET\\task_folder\\tasks6\\tasks6\\tasks4.cs",
+              "RelativeToolTip": "tasks6\\tasks4.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:57:12.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task1.cs",
+              "DocumentMoniker": "C:\\C#_NET\\task_folder\\tasks6\\tasks6\\task1.cs",
+              "RelativeDocumentMoniker": "tasks6\\task1.cs",
+              "ToolTip": "C:\\C#_NET\\task_folder\\tasks6\\tasks6\\task1.cs",
+              "RelativeToolTip": "tasks6\\task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:57:07.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\C#_NET\homework\tasks6\tasks6\obj\Debug\net10.0\tasks6.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\homework\tasks6\tasks6\obj\Debug\net10.0\tasks6.AssemblyInfoInputs.cache
+C:\C#_NET\homework\tasks6\tasks6\obj\Debug\net10.0\tasks6.AssemblyInfo.cs
+C:\C#_NET\homework\tasks6\tasks6\obj\Debug\net10.0\tasks6.csproj.CoreCompileInputs.cache
+C:\C#_NET\homework\tasks6\tasks6\obj\Debug\net10.0\tasks6.sourcelink.json
+C:\C#_NET\homework\tasks6\tasks6\bin\Debug\net10.0\tasks6.exe
+C:\C#_NET\homework\tasks6\tasks6\bin\Debug\net10.0\tasks6.deps.json
+C:\C#_NET\homework\tasks6\tasks6\bin\Debug\net10.0\tasks6.runtimeconfig.json
+C:\C#_NET\homework\tasks6\tasks6\bin\Debug\net10.0\tasks6.dll
+C:\C#_NET\homework\tasks6\tasks6\bin\Debug\net10.0\tasks6.pdb
+C:\C#_NET\homework\tasks6\tasks6\obj\Debug\net10.0\tasks6.dll
+C:\C#_NET\homework\tasks6\tasks6\obj\Debug\net10.0\refint\tasks6.dll
+C:\C#_NET\homework\tasks6\tasks6\obj\Debug\net10.0\tasks6.pdb
+C:\C#_NET\homework\tasks6\tasks6\obj\Debug\net10.0\tasks6.genruntimeconfig.cache
+C:\C#_NET\homework\tasks6\tasks6\obj\Debug\net10.0\ref\tasks6.dll
