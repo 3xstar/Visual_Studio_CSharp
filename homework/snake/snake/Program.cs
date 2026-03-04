@@ -1,19 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace RPO24
+﻿namespace homework
 {
-    internal class snake
+    internal class Program
     {
         static void DrawField(List<List<char>> field)
         {
             Console.Clear();
-            for (int i = 0; i < 20; i++)
+            for (int i = 0; i < 25; i++)
             {
-                for (int j = 0; j < 20; j++)
+                for (int j = 0; j < 25; j++)
                 {
                     if (field[i][j] == '#')
                     {
@@ -27,6 +21,10 @@ namespace RPO24
                     {
                         Console.BackgroundColor = ConsoleColor.White;
                     }
+                    else if (field[i][j] == 'x')
+                    {
+                        Console.BackgroundColor = ConsoleColor.Green;
+                    }
                     Console.Write(" ");
                     Console.BackgroundColor = ConsoleColor.Black;
                 }
@@ -38,16 +36,16 @@ namespace RPO24
         {
             List<List<char>> field = new List<List<char>>();
 
-            for (int i = 0; i < 20; i++)
+            for (int i = 0; i < 25; i++)
             {
                 field.Add(new List<char>());
-                for (int j = 0; j < 20; j++)
+                for (int j = 0; j < 25; j++)
                 {
-                    if (i == 0 || i == 19)
+                    if (i == 0 || i == 24)
                     {
                         field[i].Add('#');
                     }
-                    else if (j == 0 || j == 19)
+                    else if (j == 0 || j == 24)
                     {
                         field[i].Add('#');
                     }
@@ -67,44 +65,80 @@ namespace RPO24
             Console.WriteLine("=====SNAKE THE GAME=====");
 
             List<List<char>> filed = CreateField();
-            int snakePosX = 1;
-            int snakePosY = 1;
-            int previousPosX = 1;
-            int previousPosY = 1;
+
+            Random random = new Random();
+            int foodX = random.Next(2, 25);
+            int foodY = random.Next(2, 25);
+
+            List<(int x, int y)> snake = new List<(int x, int y)>();
+            snake.Add((12, 12));
+            snake.Add((12, 11));
 
             while (true)
             {
-                filed[snakePosY][snakePosX] = 'x';
+                foreach (var segment in snake)
+                {
+                    filed[segment.x][segment.y] = 'x';
+                }
+                filed[foodX][foodY] = '*';
                 DrawField(filed);
 
                 Console.Write("w - вперед, s - вниз, d - вправо, a - назад");
                 char direction = Console.ReadKey().KeyChar;
                 direction = char.ToLower(direction);
 
-                filed[snakePosY][snakePosX] = ' ';
-                previousPosX = snakePosX;
-                previousPosY = snakePosY;
+                foreach (var segment in snake)
+                {
+                    filed[segment.x][segment.y] = ' ';
+                }
+
+                var currentHead = snake[0];
+                (int x, int y) newHead = currentHead;
 
                 if (direction == 'w')
                 {
-                    snakePosY--;
+                    newHead.x--;
                 }
                 else if (direction == 's')
                 {
-                    snakePosY++;
+                    newHead.x++;
                 }
                 else if (direction == 'd')
                 {
-                    snakePosX++;
+                    newHead.y++;
                 }
                 else if (direction == 'a')
                 {
-                    snakePosX--;
+                    newHead.y--;
                 }
-                if (filed[snakePosX][snakePosY] == '#' || filed[snakePosY][snakePosX] == '*')
+
+                if (filed[newHead.y][newHead.x] == '#')
                 {
-                    snakePosX = previousPosX;
-                    snakePosY = previousPosY;
+                    Console.Clear();
+                    Console.WriteLine("=====GAME OVER=====\nвы врезались в стену :(");
+                    return;
+                }
+
+                snake.Insert(0, newHead);
+
+                for (int i = 1; i < snake.Count(); i++)
+                {
+                    if (newHead.x == snake[i].x && newHead.y == snake[i].y)
+                    {
+                        Console.Clear();
+                        Console.WriteLine("=====GAME OVER=====\nвы съели себя :(");
+                        return;
+                    }
+                }
+
+                if (newHead.x == foodX && newHead.y == foodY)
+                {
+                    foodX = random.Next(2, 19);
+                    foodY = random.Next(2, 19);
+                }
+                else
+                {
+                    snake.RemoveAt(snake.Count - 1);
                 }
             }
         }
